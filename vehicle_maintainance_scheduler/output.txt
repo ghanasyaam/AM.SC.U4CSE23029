@@ -1,0 +1,192 @@
+Selected Vehicles: [
+  {
+    TaskID: 'ed48d9f5-86fb-494c-a38d-53cc44808728',
+    Duration: 1,
+    Impact: 4
+  },
+  {
+    TaskID: 'cd46a751-d05f-4069-ab12-09f31ab8c577',
+    Duration: 8,
+    Impact: 2
+  },
+  {
+    TaskID: '3deca94f-238d-4626-918e-42f9957c2c1a',
+    Duration: 6,
+    Impact: 4
+  },
+  {
+    TaskID: 'ddf7a331-25b6-4cef-a53f-b3c70eae2723',
+    Duration: 3,
+    Impact: 8
+  },
+  {
+    TaskID: '8ed134b7-e4b0-4847-a7ce-ed2d5e112703',
+    Duration: 2,
+    Impact: 4
+  },
+  {
+    TaskID: '60031a07-e504-449b-afd5-14d3a704d2bb',
+    Duration: 7,
+    Impact: 7
+  },
+  {
+    TaskID: '56ff1b8a-306f-4253-9849-5aa7e445cd7a',
+    Duration: 1,
+    Impact: 6
+  },
+  {
+    TaskID: '3a485024-a935-48e6-816d-ea03d3b6d2d9',
+    Duration: 6,
+    Impact: 2
+  },
+  {
+    TaskID: '489941dd-b97a-44f8-bcd6-d9423bf9bb24',
+    Duration: 5,
+    Impact: 4
+  },
+  {
+    TaskID: 'cc77c1eb-b2ff-44ea-9a13-cb3f8aae0b05',
+    Duration: 1,
+    Impact: 3
+  },
+  {
+    TaskID: '314da1cd-5f7a-46a7-9c67-cf5c2c69450a',
+    Duration: 2,
+    Impact: 1
+  },
+  {
+    TaskID: '6466cb1c-8bc3-4492-afe8-45eddcfa0b6c',
+    Duration: 3,
+    Impact: 6
+  },
+  {
+    TaskID: '7ace4451-234f-4312-9168-4c9df85348f7',
+    Duration: 3,
+    Impact: 6
+  },
+  {
+    TaskID: 'a6b8db85-26da-4466-b48f-5be5027a4c65',
+    Duration: 6,
+    Impact: 4
+  },
+  {
+    TaskID: 'ee97fcc3-cde1-4cc2-994a-573d8338654d',
+    Duration: 7,
+    Impact: 10
+  },
+  {
+    TaskID: '61a8a49a-457f-43dd-baac-ec7a0d72687c',
+    Duration: 1,
+    Impact: 8
+  },
+  {
+    TaskID: '4495d5e1-3485-4a7a-bc67-cb01f4324fdc',
+    Duration: 7,
+    Impact: 4
+  },
+  {
+    TaskID: '5e14d45a-a189-4727-9699-ff224fbcfdf1',
+    Duration: 3,
+    Impact: 10
+  },
+  {
+    TaskID: '12aac065-9b9e-4ebf-b47e-5ed666f940d8',
+    Duration: 8,
+    Impact: 3
+  },
+  {
+    TaskID: 'ff1d9e40-9cdb-4cc7-9736-37c037fb4fac',
+    Duration: 3,
+    Impact: 4
+  },
+  {
+    TaskID: 'b7a6caef-eeb9-4a31-ae5b-355c8f1695d9',
+    Duration: 2,
+    Impact: 6
+  },
+  {
+    TaskID: '2e9290b1-6f61-4fbd-b7c2-1425d47847af',
+    Duration: 3,
+    Impact: 4
+  },
+  {
+    TaskID: '4db9f45e-56fd-4f84-86de-ae000a6f07a4',
+    Duration: 6,
+    Impact: 8
+  },
+  {
+    TaskID: 'c3f79fbb-fdc4-485d-bd75-d5eb9ff840e9',
+    Duration: 7,
+    Impact: 2
+  },
+  {
+    TaskID: '4706fd31-90d8-4909-876a-20b28def533e',
+    Duration: 8,
+    Impact: 9
+  },
+  {
+    TaskID: '4831b592-68ae-437a-9dc7-908f9c0c617a',
+    Duration: 8,
+    Impact: 6
+  },
+  {
+    TaskID: '4409d0c3-9252-4357-a5de-27e14aa3108a',
+    Duration: 6,
+    Impact: 9
+  },
+  {
+    TaskID: '0fec2252-ffe8-4243-967f-d6de39dbc7ae',
+    Duration: 8,
+    Impact: 6
+  },
+  {
+    TaskID: '78ac645d-3626-43e7-aea1-f0683ac4f279',
+    Duration: 4,
+    Impact: 4
+  },
+  {
+    TaskID: '10e29701-51af-4160-8709-7c65629fd4c7',
+    Duration: 8,
+    Impact: 8
+  },
+  {
+    TaskID: 'd1ca1637-a007-4dd4-8e34-2e17d5f867a0',
+    Duration: 7,
+    Impact: 7
+  },
+  {
+    TaskID: '225ef230-422a-434a-b31f-621ca9e97034',
+    Duration: 2,
+    Impact: 6
+  },
+  {
+    TaskID: '70d5735c-2255-4ad2-9160-637cc572a5f4',
+    Duration: 5,
+    Impact: 1
+  },
+  {
+    TaskID: 'd6ec93f3-d7ed-4473-81a2-e149d378d0ca',
+    Duration: 7,
+    Impact: 7
+  },
+  {
+    TaskID: 'c7b86f93-9bf1-43dd-9494-a3bd58351cb1',
+    Duration: 2,
+    Impact: 8
+  },
+  {
+    TaskID: '87623495-46f5-48b6-b6e0-bebcd3a43feb',
+    Duration: 6,
+    Impact: 10
+  },
+  {
+    TaskID: '93b1b29f-e91b-4a30-9658-3031c3e0cf46',
+    Duration: 1,
+    Impact: 10
+  },
+  {
+    TaskID: 'd15907ff-fbe2-4b37-b531-ddf6c711a15f',
+    Duration: 7,
+    Impact: 5
+  }
+]
